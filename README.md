@@ -1,6 +1,6 @@
 # Bienvenue sur mon Github !
 
-🎓 Étudiante en Master 2 Économétrie Appliquée à l'IAE Nantes.
+🎓 Je suis Amélie Pires, étudiante en Master 2 Économétrie Appliquée à l'IAE Nantes.
 
 Je m'intéresse à l'analyse de données, à l'économétrie et à la modélisation. 
 J'aime partir d'une problématique concrète, explorer les données et choisir les méthodes adaptées pour y répondre.
