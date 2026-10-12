@@ -9,13 +9,13 @@ J'aime partir d'une problématique concrète, explorer les données et choisir l
 
 ## _Projets sélectionnés_
 
-### Prévision de l'inflation énergétique en France
+### - Prévision de l'inflation énergétique en France
 Construction d'une base mensuelle multi-sources et comparaison de modèles de prévision : ARIMA, ARMAX, régression et Random Forest.
 
-### Déterminants des dépenses alimentaires des étudiants
+### - Déterminants des dépenses alimentaires des étudiants
 Collecte de données et régressions linéaires multiples afin d'identifier les principaux déterminants des dépenses alimentaires étudiantes.
 
-### Analyse des conditions de vie dans les pays de l'OCDE
+### - Analyse des conditions de vie dans les pays de l'OCDE
 Analyse de 22 indicateurs à l'aide de méthodes d'analyse multivariée, de réduction de dimension et de classification.
 
 ## _Outils & compétences techniques_
