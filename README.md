@@ -7,7 +7,7 @@ J'aime partir d'une problématique concrète, explorer les données et choisir l
 
 → Je recherche actuellement un stage de 3 à 6 mois à partir de mars 2027 dans le domaine de la data.
 
-## Projets sélectionnés
+## _Projets sélectionnés_
 
 ### Prévision de l'inflation énergétique en France
 Construction d'une base mensuelle multi-sources et comparaison de modèles de prévision : ARIMA, ARMAX, régression et Random Forest.
@@ -18,7 +18,7 @@ Collecte de données et régressions linéaires multiples afin d'identifier les 
 ### Analyse des conditions de vie dans les pays de l'OCDE
 Analyse de 22 indicateurs à l'aide de méthodes d'analyse multivariée, de réduction de dimension et de classification.
 
-## Outils & compétences techniques
+## _Outils & compétences techniques_
 
 **Langages :** Python · R · SQL  
 **Data & visualisation :** Power BI · R Shiny · Excel  
@@ -26,7 +26,7 @@ Analyse de 22 indicateurs à l'aide de méthodes d'analyse multivariée, de réd
 **Économétrie & analyse spatiale :** Stata · Gretl · QGIS · GeoDa  
 **Versioning :** Git · GitHub
 
-## Contact
+## _Contact_
 
 - LinkedIn : www.linkedin.com/in/amelie-pires
 - E-mail : amelie.pires@hotmail.com
