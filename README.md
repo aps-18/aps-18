@@ -7,6 +7,7 @@ J'aime partir d'une problématique concrète, explorer les données et choisir l
 
 → Je recherche actuellement un stage de 3 à 6 mois à partir de mars 2027 dans le domaine de la data.
 
+
 ## _Projets sélectionnés_
 
 ### - Prévision de l'inflation énergétique en France
@@ -18,6 +19,7 @@ Collecte de données et régressions linéaires multiples afin d'identifier les 
 ### - Analyse des conditions de vie dans les pays de l'OCDE
 Analyse de 22 indicateurs à l'aide de méthodes d'analyse multivariée, de réduction de dimension et de classification.
 
+
 ## _Outils & compétences techniques_
 
 **Langages :** Python · R · SQL  
@@ -25,6 +27,7 @@ Analyse de 22 indicateurs à l'aide de méthodes d'analyse multivariée, de réd
 **Cloud & bases de données :** Google Cloud · BigQuery  
 **Économétrie & analyse spatiale :** Stata · Gretl · QGIS · GeoDa  
 **Versioning :** Git · GitHub
+
 
 ## _Contact_
 
