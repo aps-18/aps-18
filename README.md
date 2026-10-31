@@ -10,14 +10,16 @@ J'aime partir d'une problématique concrète, explorer les données et choisir l
 
 ## _Projets sélectionnés_
 
-### - Prévision de l'inflation énergétique en France
-Construction d'une base mensuelle multi-sources et comparaison de modèles de prévision : ARIMA, ARMAX, régression et Random Forest.
+### - [Prévision de l'inflation énergétique en France](https://github.com/aps-18/prevision-inflation-energie-france)
+Construction d'une base mensuelle multi-sources et comparaison de modèles de prévision (ARIMA, ARMAX, régression, Random Forest). Résultat : le modèle naïf reste le meilleur (RMSE 4,05 contre 4,95 pour le Random Forest en rolling window).
 
-### - Déterminants des dépenses alimentaires des étudiants
-Collecte de données et régressions linéaires multiples afin d'identifier les principaux déterminants des dépenses alimentaires étudiantes.
 
-### - Analyse des conditions de vie dans les pays de l'OCDE
-Analyse de 22 indicateurs à l'aide de méthodes d'analyse multivariée, de réduction de dimension et de classification.
+### - [Déterminants des dépenses alimentaires des étudiants](https://github.com/aps-18/depenses-alimentaires-etudiants)
+Collecte de données (enquête auprès de 222 étudiants) et régressions linéaires multiples afin d'identifier les principaux déterminants des dépenses alimentaires étudiantes (modèle final : FGLS/WLS).
+
+
+### - [Analyse des conditions de vie dans les pays de l'OCDE](https://github.com/aps-18/conditions-vie-ocde)
+Analyse de 22 indicateurs sur 38 pays à l'aide de méthodes d'analyse multivariée, de réduction de dimension et de classification : ACP, PCR et PLS. La PLS prédit le mieux la satisfaction dans la vie (R² test de 0,58).
 
 
 ## _Outils & compétences techniques_
