@@ -8,7 +8,7 @@ J'aime partir d'une problématique concrète, explorer les données et choisir l
 → Je recherche actuellement un stage de 3 à 6 mois à partir de mars 2027 dans le domaine de la data.
 
 
-## _Projets sélectionnés_
+## _Aperçu de mes projets_
 
 ### - [Prévision de l'inflation énergétique en France](https://github.com/aps-18/prevision-inflation-energie-france)
 Construction d'une base mensuelle multi-sources et comparaison de modèles de prévision (ARIMA, ARMAX, régression, Random Forest). Résultat : le modèle naïf reste le meilleur (RMSE 4,05 contre 4,95 pour le Random Forest en rolling window).
