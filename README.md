@@ -22,6 +22,8 @@ Collecte de données (enquête auprès de 222 étudiants) et régressions linéa
 Analyse de 22 indicateurs sur 38 pays à l'aide de méthodes d'analyse multivariée, de réduction de dimension et de classification : ACP, PCR et PLS. La PLS prédit le mieux la satisfaction dans la vie (R² test de 0,58).
 
 
+[Voir tous mes projets](https://github.com/aps-18?tab=repositories)
+
 ## _Outils & compétences techniques_
 
 **Langages :** Python · R · SQL  
