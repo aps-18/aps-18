@@ -2,8 +2,8 @@
 
 → Je suis Amélie Pires, étudiante en Master 2 Économétrie Appliquée à l'IAE Nantes.
 
-Je m'intéresse à l'analyse de données, à l'économétrie et à la modélisation. 
-J'aime partir d'une problématique concrète, explorer les données et choisir les méthodes adaptées pour y répondre.
+Formée à l'analyse de données, à l'économétrie et aux méthodes de prévision, je souhaite mettre mes compétences en R, Python et modélisation statistique au service de projets de data science.
+Mes projets académiques m'ont permis de développer une approche rigoureuse de l'estimation, de la comparaison et de l'évaluation des modèles.
 
 → Je recherche actuellement un stage de 3 à 6 mois à partir de mars 2027 dans le domaine de la data.
 
