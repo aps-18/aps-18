@@ -7,6 +7,7 @@ J'aime partir d'une problématique concrète, explorer les données et choisir l
 
 → Je recherche actuellement un stage de 3 à 6 mois à partir de mars 2027 dans le domaine de la data.
 
+[Consulter mon CV (PDF)](./CV-Amelie-Pires.pdf)
 
 ## _Aperçu de mes projets_
 
